@@ -3,3 +3,28 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+header{
+    padding: 20px;
+    width: 80%;
+}
+
+/* header degub (da togliere) */
+header.debug{
+    height: 600px;
+    margin: auto;
+}
+
+.headertop{
+    width: 100%;
+    height: 20%;
+    background-color: violet;
+    margin-bottom: 20px;
+}
+
+.headerbottom{
+    width: 100%;
+    height: 80%;
+    background-color: rgb(226, 226, 90);
+}
+
